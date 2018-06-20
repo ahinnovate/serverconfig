@@ -1,0 +1,19 @@
+{
+  "name": "@ahinnovate/serverconfig",
+  "version": "0.0.1",
+  "description": "server config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahinnovate/serverconfig.git"
+  },
+  "author": "ahinnovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahinnovate/serverconfig/issues"
+  },
+  "homepage": "https://github.com/ahinnovate/serverconfig#readme"
+}
